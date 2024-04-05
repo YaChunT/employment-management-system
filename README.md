@@ -70,4 +70,4 @@
 
     ```
 
-13. The application will start running at `http://localhost:8080`.
+13. The application will start running at local server.
